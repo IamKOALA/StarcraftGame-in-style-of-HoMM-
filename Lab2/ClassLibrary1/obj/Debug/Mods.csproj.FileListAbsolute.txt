@@ -1,0 +1,9 @@
+E:\Study\OOP\Lab2\Mods\bin\Debug\Mods.dll
+E:\Study\OOP\Lab2\Mods\bin\Debug\Mods.pdb
+E:\Study\OOP\Lab2\Mods\bin\Debug\Lab2.exe
+E:\Study\OOP\Lab2\Mods\bin\Debug\Lab2.pdb
+E:\Study\OOP\Lab2\Mods\obj\Debug\Mods.csprojAssemblyReference.cache
+E:\Study\OOP\Lab2\Mods\obj\Debug\Mods.csproj.CoreCompileInputs.cache
+E:\Study\OOP\Lab2\Mods\obj\Debug\Mods.csproj.CopyComplete
+E:\Study\OOP\Lab2\Mods\obj\Debug\Mods.dll
+E:\Study\OOP\Lab2\Mods\obj\Debug\Mods.pdb
