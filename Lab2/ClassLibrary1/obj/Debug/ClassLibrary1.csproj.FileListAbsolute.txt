@@ -1,0 +1,9 @@
+E:\Study\OOP\Lab2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Study\OOP\Lab2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Study\OOP\Lab2\ClassLibrary1\bin\Debug\Lab2.exe
+E:\Study\OOP\Lab2\ClassLibrary1\bin\Debug\Lab2.pdb
+E:\Study\OOP\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\Study\OOP\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Study\OOP\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+E:\Study\OOP\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Study\OOP\Lab2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
